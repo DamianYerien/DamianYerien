@@ -2,7 +2,7 @@
 # 🐱‍🚀Damian Javier Yerien 
 
 
-### Ingeniero en Telecomunicaciones y Desarrollador Web Full-Stack. Apasionado por la programación y las nuevas tecnologías. 
+#### Ingeniero en Telecomunicaciones y Desarrollador Web Full-Stack. Apasionado por la programación y las nuevas tecnologías. 
 ![Logo](https://github.com/DamianYerien/DamianYerien/blob/main/programando.gif?raw=true)
 
 
