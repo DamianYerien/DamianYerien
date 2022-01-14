@@ -63,7 +63,7 @@ What did you learn while building this project? What challenges did you face and
 
 
 
-## Contactarme
+## 📫 Contactarme
 
 Para ponerte en contacto conmigo, puedes enviarme un correo a damian_yerien@hotmail.com o escribirme por linkedin. 
 
