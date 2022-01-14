@@ -65,5 +65,5 @@ What did you learn while building this project? What challenges did you face and
 
 ## Contactarme
 
-For support, email fake@fake.com or join our Slack channel.
+Para ponerte en contacto conmigo, puedes enviarme un correo a damian_yerien@hotmail.com o escribirme por linkedin. 
 
