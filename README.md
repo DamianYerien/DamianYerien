@@ -1,5 +1,5 @@
 
-<h1> Hola, Soy Damian Yerien/ >! <img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px> </h1>
+<h1>< Hola, Soy Damian Yerien/ >! <img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
