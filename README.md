@@ -42,7 +42,7 @@ const damian = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianyerien&show_icons=true&locale=en" alt="damianyerien" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damianyerien" alt="damianyerien" /></a> </p>
+
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
