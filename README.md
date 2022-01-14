@@ -36,10 +36,11 @@ const damian = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianyerien&show_icons=true&locale=en&layout=compact" alt="damianyerien" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianyerien&show_icons=true&locale=en" alt="damianyerien" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianyerien&" alt="damianyerien" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianyerien&show_icons=true&locale=en" alt="damianyerien" /></p>
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
