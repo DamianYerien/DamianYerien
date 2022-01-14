@@ -17,7 +17,7 @@ const damian = {
     languages: ["spanish", "english"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
+            javascript: ["React", "Redux"],
             css: ["bootstrap", "CSS]
         },
         backEnd: ["NodeJS", "Express"],
