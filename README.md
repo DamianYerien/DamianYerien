@@ -21,7 +21,8 @@ const damian = {
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres", "MySQL"],
-        extras: ["scrum", "trello", "slack"]
+        Networking: ["Cisco", "Juniper"],
+        extras: ["scrum", "trello", "slack"],
     }
 };
 ```
