@@ -20,7 +20,7 @@ const damian = {
             javascript: ["React", "Redux"],
             css: ["bootstrap", "CSS]
         },
-        backEnd: ["NodeJS", "Express"],
+        backEnd: ["Node JS", "Express"],
         databases: ["Sql", "postgres", "MySQL"],
         tools: ["git", "github", "postman"]
         networking: ["Cisco", "Juniper"],
