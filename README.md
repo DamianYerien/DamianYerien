@@ -23,7 +23,7 @@ const damian = {
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres", "MySQL"],
         tools: ["git", "github", "postman"]
-        Networking: ["Cisco", "Juniper"],
+        networking: ["Cisco", "Juniper"],
         extras: ["scrum", "trello", "slack"],
     }
 };
