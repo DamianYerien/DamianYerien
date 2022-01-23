@@ -51,7 +51,7 @@ const damian = {
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
     
    
-# Other Common Github Profile Sections
+## Other Common Github Profile Sections
 👩‍💻 Actualmente estoy trabajando en el desarrollo de aplicaciones del tipo SPA para sumar a mi portfolio personal. 
 
 🧠 Me encuentro perfeccionando aptitudes de diseño en FrontEnd y aprendiendo nuevas tecnologias para sumar en mis conocimientos de BackEnd.
