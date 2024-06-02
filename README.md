@@ -13,14 +13,14 @@
 ```javascript
 const damian = {
     pronouns: "he" | "His",
-    askMeAbout: ["diversity", "design"],
+    askMeAbout: ["technology", "design"],
     languages: ["spanish", "english"],
     technologies: {
         frontEnd: {
-            javascript: ["React", "Redux"],
-            css: ["bootstrap", "CSS]
+            javascript: ["React", "Redux", "NextJs"],
+            css: ["bootstrap", "CSS", "tailwind"]
         },
-        backEnd: ["Node JS", "Express"],
+        backEnd: ["Node JS", "Express", "strapi", "python"],
         databases: ["Sql", "postgres", "MySQL"],
         tools: ["git", "github", "postman"]
         networking: ["Cisco", "Juniper"],
